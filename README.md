@@ -10,3 +10,7 @@ CIRCUIT DIAGRAM: https://ediylabs.com/contests/TCDC2021/upload/Project/376962-LE
 <br>
 ![image](https://user-images.githubusercontent.com/71168865/169512815-cc45b452-cd99-4aad-a35c-7686222786e3.png)
 
+![image](https://user-images.githubusercontent.com/71168865/169515021-f854d514-f7c6-4149-888a-672d79530888.png)
+
+
+
